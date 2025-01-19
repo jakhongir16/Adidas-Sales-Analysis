@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0656f09f-38ea-4696-8951-b3def8fbbbf3)
+![image](https://github.com/user-attachments/assets/a0bfddd2-9102-4902-9434-869542d7ae52)
 
 # Adidas-Sales-Analysis
 In this project, I designed and developed a comprehensive sales analysis dashboard for Adidas, 
